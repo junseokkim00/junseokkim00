@@ -1,8 +1,8 @@
 ### Hello, This is Junseok Kim 👋
 
-🎓 I am currently pursuing a **M.S. in Computer Science and Engineering** at __Seoul National University__ (서울대학교)
+🎓 I am currently pursuing a **M.S. in Computer Science and Engineering** at __Seoul National University__
 
-🔬 _Research Interests_:
+🔎 _Research Interests_:
 I have a particular interest in LLM personalization and information retrieval across various domains, including:
 
 - **LLM Personalization**: Adapting large language models to align with individual user needs and preferences.
